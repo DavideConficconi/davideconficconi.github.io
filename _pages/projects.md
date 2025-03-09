@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: UNDER CONSTRUCTION :). A growing collection of your cool projects. 
 nav: true
-nav_order: 6
+nav_order: 7
 display_categories: [work, fun]
 horizontal: false
 ---
