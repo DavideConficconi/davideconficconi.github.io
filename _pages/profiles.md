@@ -5,90 +5,40 @@ permalink: /team/
 description: Members of the research team. UNDER CONSTRUCTION :)
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
 
-{% else %}
+<hr>
 
-<!-- Display projects without categories -->
+## Current Members
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+<br>
 
-  <!-- Generate cards for each project -->
+### PhD Students
 
-{% if page.horizontal %}
+- [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99) (2023-), smartNICs design (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
+- [Omar Regantini]() (2024-), power-efficient guidance in the deep-space  (co-advised with [Alessandro Morselli](https://dart.polimi.it/member/?p=alessandro+morselli))
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+### Graduate Students
 
-<!-- ---
-layout: profiles
-permalink: /team/
-title: team
-description: Members of the research team
-nav: true
-nav_order: 3
+- [Paolo Salvatore Galfano](https://github.com/Paolo309) (2023-): Heterogeneous System Acceleration through AIE-FPGAs for Image Registration (co-advised with [Eleonora D'Arnese](https://www.research.ed.ac.uk/en/persons/eleonora-darnese))
+- [Simone Mannarino](https://github.com/ironmanna) (2023-): enabling eBPF offloading in OpenNIC (co-advised with [Gianni Antichi](https://gianniantichi.github.io/))
+- [Roberto Alessandro Bertolini](https://github.com/MrIndeciso) (2023-): Page Walking Security (co-advised with [Lorenzo Binosi](https://github.com/LorenzoBinosi) and [Francesco Peverelli](https://github.com/francesco-peverelli)), Symmetric Cryptography Accelerator on low-end FPGAs
+- [Valentino Guerrini](https://github.com/IoSonoDue2) (2023-): Fully Homomorphic Encryption Accelerator on Embedded and High-end FPGAs
+- [Federico Valentino](https://github.com/FedericoValentino) (2023-): Performance Monitoring of Domain-Specific Archtiectures, Quantum Error Correction on FPGAs
+- [Paolo Ritirato](https://github.com/Paulpo99) (2024-): On satellite telemetry Anomaly Detection with Sipiking Neural Networks on FPGAs
+- [Alessandro Aldo Marina](https://github.com/Hackingale)(2024-): Spatial Accelerator for Regular Expression matching
+- [Giacomo Brunetta](https://github.com/giacomo-brunetta)(2024-): Power characterization of AI accelerators (co-advised with [Zhiling Lan](https://lanzhiling.github.io/))
+- [Claudio Di Salvo](https://github.com/Claxl)(2024-): On satellite Image Registration on Embedded FPGAs
 
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: true # crops the image to make it circular
-    # more_info: >
-    #   <p>555 your office number</p>
-    #   <p>123 your address street</p>
-    #   <p>Your City, State 12345</p>
-  # - align: left
-  #   image: prof_pic.jpg
-  #   content: about_einstein.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #     <p>555 your office number</p>
-  #     <p>123 your address street</p>
-  #     <p>Your City, State 12345</p>
---- -->
+
+<hr>
+
+## Past Members
+
+<br>
+
+### Graduate Students
+
+- [Tristan Van Den Weghe]() (2024): An Emulation-based Approach for Fast Design Space Exploration of a Domain-Specific Architecture for Regex Matching
+- [Luisa Cicolini](https://github.com/luisacicolini) (2023-2024): One Automaton To Rule Them All: Beyond Multiple Regular Expressions Execution (co-advised with [Filippo Carloni](https://github.com/FilippoCarloni))
