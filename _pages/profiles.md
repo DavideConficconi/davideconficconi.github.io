@@ -16,7 +16,8 @@ nav_order: 3
 
 ### PhD Students
 
-- [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99) (2023-), smartNICs design (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
+- [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99) (2023-), accelerating Federated Learning Biomedical Image Registration via Heterogeneous Adaptive
+Devices (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
 - [Omar Regantini]() (2024-), power-efficient guidance in the deep-space  (co-advised with [Alessandro Morselli](https://dart.polimi.it/member/?p=alessandro+morselli))
 
 ### Graduate Students
