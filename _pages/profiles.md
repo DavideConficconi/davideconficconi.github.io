@@ -16,8 +16,7 @@ nav_order: 3
 
 ### PhD Students
 
-- [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99) (2023-), accelerating Federated Learning Biomedical Image Registration via Heterogeneous Adaptive
-Devices (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
+- [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99) (2023-), heterogeneous and adaptive accelerators for Federated Biomedical Image Registration (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
 - [Omar Regantini]() (2024-), power-efficient guidance in the deep-space  (co-advised with [Alessandro Morselli](https://dart.polimi.it/member/?p=alessandro+morselli))
 
 ### Graduate Students
@@ -29,6 +28,9 @@ Devices (co-advised with [Marco Domenico Santambrogio](https://santambrogio.facu
 - [Alessandro Aldo Marina](https://github.com/Hackingale)(2024-): Spatial Accelerator for Regular Expression matching
 - [Giacomo Brunetta](https://github.com/giacomo-brunetta)(2024-): Power characterization of AI accelerators (co-advised with [Zhiling Lan](https://lanzhiling.github.io/))
 - [Claudio Di Salvo](https://github.com/Claxl)(2024-): On satellite Image Registration on Embedded FPGAs
+
+### Undergraduate Students
+- [Andrea Oggioni](https://github.com/etabeta1) (2025-): accelerating nengo neuromorphic computations on NPUs
 
 
 <hr>
