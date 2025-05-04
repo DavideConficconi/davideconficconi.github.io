@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: UNDER CONSTRUCTION :). A growing collection of your cool projects. 
-nav: true
+nav: false
 nav_order: 7
 display_categories: [work, fun]
 horizontal: false

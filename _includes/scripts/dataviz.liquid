@@ -1,0 +1,6 @@
+{% if page.data_viz %}
+ <script src="{{ '/assets/js/p5lib/p5.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/p5lib/p5.sound.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/sketch.js' | relative_url | bust_file_cache }}"></script> 
+<!-- <iframe src="/assets/sketches/my-sketch/index.html" width="400" height="400" style="border:none;"></iframe> >
+{% endif %}

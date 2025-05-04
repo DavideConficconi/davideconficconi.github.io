@@ -9,7 +9,7 @@ profile:
   image: test.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><a href='https://www.deib.polimi.it/'>Dipartimenti di Elettronica Informazione e Bioingegneria</a></p>
+    <p><a href='https://www.deib.polimi.it/'>Dipartiment0 di Elettronica Informazione e Bioingegneria</a></p>
     <p><a href='https://necst.it/'>NECSTLab</a>, Building 20</p>
     <p>Via Giuseppe Ponzio 34/5</p>
     <p>Milano 20133, IT</p>
@@ -24,7 +24,7 @@ My research interests fall in the broad spectrum of **system architecture** fiel
 Specifically major topics: (co-)design of **domain-specific systems**, architectures or frameworks that span the system stack (from the HDL design to the design automation, from the abstraction layer the compilation framework), reconfigurable architectures, especially **FPGAs**, **heterogeneous systems**. 
 I am also started investigating _neuromorphic systems_ and _aerospace systems_ where specilization and efficiency are mandatory.
 
-An experiment to better visualize my research can be found [here]() (WIP). 
+An experiment to better visualize my research can be found [here](/dataviz/) (WIP). 
 Further details of my publications can be found in [Google Scholar profile](https://scholar.google.com/citations?user=Y0VnEtkAAAAJ), my [publications page](/publications/), or this [self-made pdf list](https://raw.githubusercontent.com/DavideConficconi/davideconficconi.github.io/master/assets/pdf/publist_dc.pdf) (possibly outdated), or other research profiles in this page.
 
 

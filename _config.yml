@@ -52,6 +52,7 @@ footer_fixed: false
 search_enabled: true
 socials_in_search: true
 bib_search: true
+data_viz: true
 
 # Dimensions
 max_width: 930px
