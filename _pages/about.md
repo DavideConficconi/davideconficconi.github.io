@@ -25,7 +25,7 @@ announcements:
 ---
 I am an Assistant Professor (RTDa) at Dipartimento Elettronica, Informazione e Bioingegneria of Politecnico di Milano (Italy).
 
-My research interests fall in the broad spectrum of **system architecture** field where achieving high-performance and energy-efficiency is paramount.
+My research interests fall in the broad spectrum of the **system architecture** field where achieving high-performance and energy-efficiency is paramount.
 Specifically major topics are: (co-)design of **domain-specific architectures** and **systems**, architectures or frameworks that span the system stack (from the HDL design to the design automation, from the abstraction layer the compilation framework), reconfigurable architectures, especially **FPGAs**, **heterogeneous systems**. 
 I am also started investigating _neuromorphic systems_ and _aerospace systems_ where specilization and efficiency are mandatory.
 
