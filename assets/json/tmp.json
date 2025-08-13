@@ -1,0 +1,17 @@
+{
+    "basics": {
+      "name": "Davide Conficconi",
+      "label": "Assistant Professor (RTDa)",
+      "image": "",
+      "email": "davideDOTconficconiATpolimiDOTit",
+      "url": "https://davideconficconi.github.io",
+      "summary": "Computing Systems Researcher and Teacher, I am interested in the full system design: Digital Design, Computer Architectures, EDA/CAD tools, HW/SW abstractions",
+      "location": {
+        "address": "via Ponzio 34/5",
+        "postalCode": "20133",
+        "city": "Milan",
+        "countryCode": "ITA",
+        "region": "Lombardy"
+      }
+    }
+}
