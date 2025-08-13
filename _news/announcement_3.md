@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-02-17 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I have been selected for the European Talent Academy fellowship 2025.
+I will be representing Polimi in this research and networking program.
+Looking forward to visit Imperial and TUM!
