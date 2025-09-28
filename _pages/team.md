@@ -29,13 +29,10 @@ nav_order: 3
 - [Federico Valentino](https://github.com/FedericoValentino) (2023-): Performance Monitoring of Domain-Specific Archtiectures, Quantum Error Correction on FPGAs
 - [Valentino Guerrini](https://github.com/IoSonoDue2) (2023-): Fully Homomorphic Encryption Accelerator on Embedded and High-end FPGAs
 - [Giacomo Brunetta](https://github.com/giacomo-brunetta) (2024-): Power characterization of AI accelerators (co-advised with [Zhiling Lan](https://lanzhiling.github.io/))
-- [Marco Laurenzi](https://github.com/marcolaurenzi) (2025-): DMA for NPU-GPU
+- [Marco Laurenzi](https://github.com/marcolaurenzi) (2025-): zero-copy for NPU-GPU accelerators
  
 ### Undergraduate Students
 - [Andrea Oggioni](https://github.com/etabeta1) (2025-): accelerating nengo neuromorphic computations on NPUs
-
-### Visiting
-- [Elouan Lucas](https://www.linkedin.com/in/elouan-lucas-7901a4292/), [ESEO](https://www.linkedin.com/school/eseo/) (summer 2025 internship): efficient AI on Zynqs MPSoCs
 
 <hr>
 
@@ -51,3 +48,7 @@ nav_order: 3
 
 ### Undergraduate Students
 - [Roberto A. Bertolini](https://github.com/MrIndeciso) (2023-2024): Symmetric Cryptography Accelerator on low-end FPGAs
+
+### Visiting
+- [Elouan Lucas](https://github.com/Elouanlucas), [ESEO](https://www.linkedin.com/school/eseo/) (summer 2025 internship): efficient AI on Zynqs MPSoCs
+
