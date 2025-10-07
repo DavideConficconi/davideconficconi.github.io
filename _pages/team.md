@@ -21,19 +21,19 @@ nav_order: 3
 
 ### Graduate Students
 
-- [Paolo Salvatore Galfano](https://github.com/Paolo309) (2023-): Heterogeneous System Acceleration through AIE-FPGAs for Image Registration (co-advised with [Eleonora D'Arnese](https://www.research.ed.ac.uk/en/persons/eleonora-darnese))
+- [Paolo Salvatore Galfano](https://github.com/Paolo309) (2023-): Heterogeneous System Acceleration through AIE-FPGAs for Image Registration (co-advised with [Eleonora D'Arnese](https://www.research.ed.ac.uk/en/persons/eleonora-darnese) and Giuseppe Sorrentino)
 - [Simone Mannarino](https://github.com/ironmanna) (2023-): enabling eBPF offloading in OpenNIC (co-advised with [Gianni Antichi](https://gianniantichi.github.io/))
-- [Claudio Di Salvo](https://github.com/Claxl) (2024-): On satellite Image Registration on Embedded FPGAs
+- [Claudio Di Salvo](https://github.com/Claxl) (2024-): On satellite Image Registration on Embedded FPGAs (co-adivsed with Giuseppe Sorrentino)
 - [Roberto A. Bertolini](https://github.com/MrIndeciso) (2024-): Page Walking Security (co-advised with [Lorenzo Binosi](https://github.com/LorenzoBinosi))
 - [Alessandro A. Marina](https://github.com/Hackingale) (2024-): Spatial Accelerator for Regular Expression matching
 - [Federico Valentino](https://github.com/FedericoValentino) (2023-): Performance Monitoring of Domain-Specific Archtiectures, Quantum Error Correction on FPGAs
-- [Valentino Guerrini](https://github.com/IoSonoDue2) (2023-): Fully Homomorphic Encryption Accelerator on Embedded and High-end FPGAs
+- [Valentino Guerrini](https://github.com/ValentinoGuerrini) (2023-): Fully Homomorphic Encryption Accelerator on Embedded and High-end FPGAs (co-adivsed with Giuseppe Sorrentino)
 - [Giacomo Brunetta](https://github.com/giacomo-brunetta) (2024-): Power characterization of AI accelerators (co-advised with [Zhiling Lan](https://lanzhiling.github.io/))
-- [Marco Laurenzi](https://github.com/marcolaurenzi) (2025-): direct memory access for NPU-GPU accelerators
-- [Amirreza Kiani](https://github.com/AmirRezaKiani) (2025-): AIE-ML image transformation and interpolation
+- [Marco Laurenzi](https://github.com/marcolaurenzi) (2025-): direct memory access for NPU-GPU accelerators (co-advised with Giuseppe Sorrentino)
+- [Amirreza Kiani](https://github.com/AmirRezaKiani) (2025-): AIE-ML image transformation and interpolation (co-advised with Giuseppe Sorrentino)
  
 ### Undergraduate Students
-- [Andrea Oggioni](https://github.com/etabeta1) (2025-): accelerating nengo neuromorphic computations on NPUs
+- [Andrea Oggioni](https://github.com/etabeta1) (2025-): accelerating nengo neuromorphic computations on NPUs (co-advised with Giuseppe Sorrentino)
 
 <hr>
 
