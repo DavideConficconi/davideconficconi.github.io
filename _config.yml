@@ -173,6 +173,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _posts
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -188,6 +189,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/blog.md
   - purgecss.config.js
   - README.md
   - readme_preview/
