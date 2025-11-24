@@ -14,7 +14,7 @@ nav_order: 4
 ## Current
 
 At Politecnico di Milano
-* Course Organizer of _Advanced Topics in Codesign of Domain-Specific Accelerated Computing Architectures and Systems_, PhD Course - held with Prof. [Lana Josipovic](https://sites.google.com/view/lanajosipovic) [2025-2026]() 
+* Course Organizer of _Advanced Topics in Codesign of Domain-Specific Accelerated Computing Architectures and Systems_, PhD Course - held with Prof. [Lana Josipovic](https://sites.google.com/view/lanajosipovic) and [Martin Langhammer](https://scholar.google.it/citations?user=LJpfs7EAAAAJ&) [2025-2026]() 
 * Module Organizer of _Informatica Applicata_ (Applied Informatics), Bachelor Course 062199 - [2025 material](https://drive.google.com/drive/folders/1uK9XLFCekwXlJobgW-X1_f5a3IKm2AaW?usp=drive_link) and [2025 index](https://lcg-infodesign.github.io/lcg2526-ia-index/), [2024 material](https://drive.google.com/drive/folders/1jC94ARomqQ4lVsJMsIk0D4iZPvKclbSa?usp=sharing) [2024 idx](https://lcg-infodesign.github.io/lcg2425-ia-idx/), 059781 - [2023](https://drive.google.com/drive/folders/1V3DhFF13yOTkliKyTQDc-WAdGUjMEtaO?usp=sharing).
 * Teaching Assistant of 088949 - _Advanced Computer Architectures_ (ACA) , Master Course, [2025](https://webeep.polimi.it/course/view.php?id=14754), [2024](https://webeep.polimi.it/course/view.php?id=10616) (Prof. C. Pilato), [2023](https://webeep.polimi.it/course/view.php?id=8114) (held by myself), 2022 (Prof. D. Sciuto) 
 Passion in Action intiative at Polimi
