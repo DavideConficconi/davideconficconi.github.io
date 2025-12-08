@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Invited to serve as [FCCM 2026](https://www.fccm.org/) and [FPL 2026](https://2026.fpl.org/) Artifact Evaluation Co-Chair
-Submit your papers!
+Submit your artifacts, reproducible science needed!
