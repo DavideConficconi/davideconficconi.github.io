@@ -139,7 +139,7 @@ ninja.data = [{
           section: "News",},{id: "news-invited-to-serve-in-fccm-2026-program-committee-submit-your-papers",
           title: 'Invited to serve in FCCM 2026 Program Committee Submit your papers!',
           description: "",
-          section: "News",},{id: "news-invited-to-serve-as-fccm-2026-and-fpl-2026-artifact-evaluation-co-chair-submit-your-papers",
+          section: "News",},{id: "news-invited-to-serve-as-fccm-2026-and-fpl-2026-artifact-evaluation-co-chair-submit-your-artifacts-reproducible-science-needed",
           title: 'Invited to serve as FCCM 2026 and FPL 2026 Artifact Evaluation Co-Chair Submit...',
           description: "",
           section: "News",},{id: "projects-project-1",
