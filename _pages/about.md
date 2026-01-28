@@ -23,7 +23,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
-I am an Assistant Professor at Dipartimento Elettronica, Informazione e Bioingegneria of Politecnico di Milano (Italy).
+I am an Assistant Professor at Dipartimento Elettronica, Informazione e Bioingegneria of Politecnico di Milano (Italy) and an incoming visiting scholar at the University of Edinburgh.
 
 My research interests fall in the broad spectrum of the **system architecture** field where achieving high-performance and energy-efficiency is paramount.
 Specifically major topics are: (co-)design of **domain-specific architectures** and **systems**, architectures or frameworks that span the system stack (from the HDL design to the design automation, from the abstraction layer the compilation framework), reconfigurable architectures, especially **FPGAs**, **heterogeneous systems**. 
