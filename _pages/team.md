@@ -31,12 +31,11 @@ nav_order: 3
 - [Marco Laurenzi](https://github.com/marcolaurenzi) (2025-): direct memory access for NPU-GPU accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Amirreza Kiani](https://github.com/AmirRezaKiani) (2025-): AIE-ML image transformation and interpolation (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Andrea Oggioni](https://github.com/etabeta1) (2025-): accelerating nengo neuromorphic computations on NPUs (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
-- [Rey Paraula](https://github.com/zJudGenie) and [Roberto Petenzi](https://github.com/rob-petenzi) high performance computer architectures and their security (co-advised with Alessandro Bertani)
-- [Giulio Mantovi](https://github.com/giuliomantovi) and [Davide Paltrinieri](https://github.com/PaltrinieriDavide) machine learning applications on ryzen AI SoC
-- [Sera Serrano](https://github.com/seraconti) (2026-) (Quantum Systems Reliability, joint project with TU Delft and University of Sao Paulo)
-- [Pier Guido Seno](https://github.com/pierzeno) (2026-) Statically Scheduled Processors for regex matching 
-- [Gianmaria Napolitano](https://github.com/gmnapo) (2026-) HPC RISCV on FPGAs
-### Undergraduate Students
+- [Rey Paraula](https://github.com/zJudGenie) and [Roberto Petenzi](https://github.com/rob-petenzi) high performance computer architectures and their security (co-advised with [Alessandro Bertani](https://github.com/alessandrobertani))
+- [Giulio Mantovi](https://github.com/giuliomantovi) and [Davide Paltrinieri](https://github.com/PaltrinieriDavide) machine learning applications on ryzen AI SoC (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
+- [Sera Conti](https://github.com/seraconti) (2026-) (Quantum Systems Reliability, joint project with TU Delft and University of Sao Paulo)
+- [Pier Guido Seno](https://github.com/pierzeno) (2026-) Statically Scheduled Processors for regex matching (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
+- [Gianmaria Napolitano](https://github.com/gmnapo) (2026-) HPC RISCV on FPGAs 
 
 <hr>
 
@@ -49,11 +48,12 @@ nav_order: 3
 - [Simone Mannarino](https://github.com/ironmanna) (2023-2025): enabling eBPF offloading in OpenNIC (co-advised with [Gianni Antichi](https://gianniantichi.github.io/))
 - [Claudio Di Salvo](https://github.com/Claxl) (2024-2025): On satellite Image Registration on Embedded FPGAs (co-adivsed with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Paolo Ritirato](https://github.com/Paulpo99) (2024-2025): On satellite telemetry Anomaly Detection with Sipiking Neural Networks on FPGAs (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
-- [Tristan Van Den Weghe]() (2024): An Emulation-based Approach for Fast Design Space Exploration of a Domain-Specific Architecture for Regex Matching
+- [Tristan Van Den Weghe](https://github.com/Trito99) (2024): An Emulation-based Approach for Fast Design Space Exploration of a Domain-Specific Architecture for Regex Matching
 - [Luisa Cicolini](https://github.com/luisacicolini) (2023-2024): One Automaton To Rule Them All: Beyond Multiple Regular Expressions Execution (co-advised with [Filippo Carloni](https://github.com/FilippoCarloni))
 - [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99) (2022-2023), HEPHAESTUS: an FPGA-based Framework for 3D Image Registration (co-advised with [Eleonora D'Arnese](https://www.research.ed.ac.uk/en/persons/eleonora-darnese))
 
 ### Undergraduate Students
+- [Andrea Oggioni](https://github.com/etabeta1) (2025): accelerating nengo neuromorphic computations on NPUs (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Roberto A. Bertolini](https://github.com/MrIndeciso) (2023-2024): Symmetric Cryptography Accelerator on low-end FPGAs
 
 ### Visiting
