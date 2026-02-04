@@ -33,7 +33,7 @@ nav_order: 3
 - [Andrea Oggioni](https://github.com/etabeta1) (2025-): accelerating nengo neuromorphic computations on NPUs (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Rey Paraula](https://github.com/zJudGenie) and [Roberto Petenzi](https://github.com/rob-petenzi) high performance computer architectures and their security (co-advised with Alessandro Bertani)
 - [Giulio Mantovi](https://github.com/giuliomantovi) and [Davide Paltrinieri](https://github.com/PaltrinieriDavide) machine learning applications on ryzen AI SoC
-- [Sera Conti](https://github.com/seraconti) (2026-) (Quantum Systems Reliability, joint project with TU Delft and University of Sao Paulo)
+- [Sera Serrano](https://github.com/seraconti) (2026-) (Quantum Systems Reliability, joint project with TU Delft and University of Sao Paulo)
 - [Pier Guido Seno](https://github.com/pierzeno) (2026-) Statically Scheduled Processors for regex matching 
 - [Gianmaria Napolitano](https://github.com/gmnapo) (2026-) HPC RISCV on FPGAs
 ### Undergraduate Students
