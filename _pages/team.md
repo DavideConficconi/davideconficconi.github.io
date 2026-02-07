@@ -18,7 +18,7 @@ nav_order: 3
 
 - [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99) (2023-), heterogeneous and adaptive accelerators for Federated Biomedical Image Registration (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
 - [Claudio Di Salvo](https://github.com/Claxl) (2026-), accelerators for vision space and biomedical computing systems (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
-- [Omar Regantini]() (2024-), power-efficient guidance in the deep-space  (primary advisor [Alessandro Morselli](https://dart.polimi.it/member/?p=alessandro+morselli))
+- [Omar Regantini](https://github.com/omarregantini) (2024-), power-efficient guidance in the deep-space  (primary advisor [Alessandro Morselli](https://dart.polimi.it/member/?p=alessandro+morselli))
 
 ### Graduate Students
 
