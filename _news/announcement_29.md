@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-"Are We Ready to Enable Satellite Autonomy Through on Board Image Registration?" got accepted with shepparding at SIGMETRICS'26! 
+"Are We Ready to Enable Satellite Autonomy Through on Board Image Registration?" got accepted with shepherding at SIGMETRICS'26! 
 
 The work was led by [Claudio Di Salvo](https://github.com/Claxl).
 
