@@ -172,7 +172,7 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-accepted-at-fccm-26-adaptive-aie-pl-systems-for-efficient-end-to-end-pyramidal-3d-image-registration-work-led-by-giuseppe-sorrentino-and-refhe-ntt-resource-driven-ntt-fpga-architecture-for-fully-homomorphic-encryption-work-led-by-valentino-guerrini-see-you-in-atlanta",
           title: 'Two papers accepted at FCCM’26! “Adaptive AIE–PL Systems for Efficient End-to-End Pyramidal 3D...',
           description: "",
-          section: "News",},{id: "news-are-we-ready-to-enable-satellite-autonomy-through-on-board-image-registration-got-accepted-with-shepparding-at-sigmetrics-26-the-work-was-led-by-claudio-di-salvo-see-you-in-ann-arbor",
+          section: "News",},{id: "news-are-we-ready-to-enable-satellite-autonomy-through-on-board-image-registration-got-accepted-with-shepherding-at-sigmetrics-26-the-work-was-led-by-claudio-di-salvo-see-you-in-ann-arbor",
           title: '“Are We Ready to Enable Satellite Autonomy Through on Board Image Registration?” got...',
           description: "",
           section: "News",},{id: "projects-project-1",
