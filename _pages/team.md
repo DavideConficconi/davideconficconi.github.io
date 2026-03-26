@@ -23,8 +23,6 @@ nav_order: 3
 ### Graduate Students
 
 ##### Master Thesis
-- [Paolo Salvatore Galfano](https://github.com/Paolo309) (2023-2026): Accelerated MX SoC (work @ Pulp group, ETH, Luca Benini)  ,Heterogeneous System Acceleration through AIE-FPGAs for Image Registration (co-advised with [Eleonora D'Arnese](https://www.research.ed.ac.uk/en/persons/eleonora-darnese))
-- [Alessandro A. Marina](https://github.com/Hackingale) (2024-2026): Spatial Accelerator for Regular Expression matching
 - [Roberto A. Bertolini](https://github.com/MrIndeciso) (2024-): Page Walking Security (co-advised with [Lorenzo Binosi](https://github.com/LorenzoBinosi))
 - [Valentino Guerrini](https://github.com/ValentinoGuerrini) (2023-): Fully Homomorphic Encryption Accelerator on Embedded and High-end FPGAs (co-adivsed with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Giacomo Brunetta](https://github.com/giacomo-brunetta) (2024-): vectorized logarithm and spatial accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
@@ -45,7 +43,8 @@ nav_order: 3
 <br>
 
 ### Graduate Students
-
+- [Paolo Salvatore Galfano](https://github.com/Paolo309) (2023-2026): Accelerated MX SoC (work @ Pulp group, ETH, Luca Benini)  ,Heterogeneous System Acceleration through AIE-FPGAs for Image Registration (co-advised with [Eleonora D'Arnese](https://www.research.ed.ac.uk/en/persons/eleonora-darnese))
+- [Alessandro A. Marina](https://github.com/Hackingale) (2024-2026): Spatial Accelerator for Regular Expression matching
 - [Federico Valentino](https://github.com/FedericoValentino) (2023-2025): Performance Monitoring of Domain-Specific Archtiectures, Quantum Error Correction on FPGAs
 - [Giulio Mantovi](https://github.com/giuliomantovi) and [Davide Paltrinieri](https://github.com/PaltrinieriDavide) machine learning applications on ryzen AI SoC (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Simone Mannarino](https://github.com/ironmanna) (2023-2025): enabling eBPF offloading in OpenNIC (co-advised with [Gianni Antichi](https://gianniantichi.github.io/))
