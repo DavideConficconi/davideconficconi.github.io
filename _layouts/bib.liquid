@@ -254,18 +254,33 @@
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
       {% if entry.acm_artifacts_evaluated_functional %}
-        <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current" class="btn btn-sm z-depth-0" role="button" title="ACM Artifacts Evaluated - Functional" data-toggle="tooltip">
-          <i class="fa-solid fa-check-circle" style="color: #2196F3;"></i> Artifacts Evaluated - Functional
+        <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current" title="ACM Artifacts Evaluated - Functional">
+          <img src="{{ '/assets/img/results_reproduced_dl.jpg' | relative_url }}" alt="Artifacts Evaluated - Functional" style="height: 25px; margin-left: 0.25rem; vertical-align: middle;">
         </a>
       {% endif %}
-      {% if entry.acm_artifacts_evaluated_reusable %}
-        <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current" class="btn btn-sm z-depth-0" role="button" title="ACM Artifacts Evaluated - Reusable" data-toggle="tooltip">
-          <i class="fa-solid fa-check-double" style="color: #4CAF50;"></i> Artifacts Evaluated - Reusable
+        {% if entry.acm_artifacts_evaluated_reusable or entry.acm_artifacts_reviewed %}
+          <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current" title="{% if entry.acm_artifacts_evaluated_reusable %}ACM Artifacts Evaluated - Reusable{% else %}ACM Artifacts Reviewed{% endif %}">
+            <img src="{{ '/assets/img/artifacts_evaluated_reusable_dl.jpg' | relative_url }}" alt="{% if entry.acm_artifacts_evaluated_reusable %}Artifacts Evaluated - Reusable{% else %}Artifacts Reviewed{% endif %}" style="height: 25px; margin-left: 0.25rem; vertical-align: middle;">
         </a>
       {% endif %}
       {% if entry.acm_artifacts_available %}
-        <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current" class="btn btn-sm z-depth-0" role="button" title="ACM Artifacts Available" data-toggle="tooltip">
-          <i class="fa-solid fa-cube" style="color: #FF9800;"></i> Artifacts Available
+        <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current" title="ACM Artifacts Available">
+          <img src="{{ '/assets/img/artifacts_available_dl.jpg' | relative_url }}" alt="Artifacts Available" style="height: 25px; margin-left: 0.25rem; vertical-align: middle;">
+        </a>
+      {% endif %}
+      {% if entry.ieee_artifacts_available %}
+        <a href="https://ieeexplore.ieee.org/Xplorehelp/overview-of-ieee-xplore/about-content#reproducibility-badges" title="IEEE Artifacts Available">
+          <img src="{{ '/assets/img/ieee-available.PNG' | relative_url }}" alt="IEEE Artifacts Available" style="height: 25px; margin-left: 0.25rem; vertical-align: middle;">
+        </a>
+      {% endif %}
+      {% if entry.ieee_artifacts_reviewed %}
+        <a href="https://ieeexplore.ieee.org/Xplorehelp/overview-of-ieee-xplore/about-content#reproducibility-badges" title="IEEE Artifacts Reviewed">
+          <img src="{{ '/assets/img/ieee-reviewed.PNG' | relative_url }}" alt="IEEE Artifacts Reviewed" style="height: 25px; margin-left: 0.25rem; vertical-align: middle;">
+        </a>
+      {% endif %}
+      {% if entry.ieee_artifacts_reproduced %}
+        <a href="https://ieeexplore.ieee.org/Xplorehelp/overview-of-ieee-xplore/about-content#reproducibility-badges" title="IEEE Artifacts Reproduced">
+          <img src="{{ '/assets/img/ieee-reproduced.PNG' | relative_url }}" alt="IEEE Artifacts Reproduced" style="height: 25px; margin-left: 0.25rem; vertical-align: middle;">
         </a>
       {% endif %}
     </div>
