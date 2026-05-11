@@ -253,6 +253,21 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.acm_artifacts_evaluated_functional %}
+        <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current" class="btn btn-sm z-depth-0" role="button" title="ACM Artifacts Evaluated - Functional" data-toggle="tooltip">
+          <i class="fa-solid fa-check-circle" style="color: #2196F3;"></i> Artifacts Evaluated - Functional
+        </a>
+      {% endif %}
+      {% if entry.acm_artifacts_evaluated_reusable %}
+        <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current" class="btn btn-sm z-depth-0" role="button" title="ACM Artifacts Evaluated - Reusable" data-toggle="tooltip">
+          <i class="fa-solid fa-check-double" style="color: #4CAF50;"></i> Artifacts Evaluated - Reusable
+        </a>
+      {% endif %}
+      {% if entry.acm_artifacts_available %}
+        <a href="https://www.acm.org/publications/policies/artifact-review-and-badging-current" class="btn btn-sm z-depth-0" role="button" title="ACM Artifacts Available" data-toggle="tooltip">
+          <i class="fa-solid fa-cube" style="color: #FF9800;"></i> Artifacts Available
+        </a>
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
