@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /team/
-title: <b>CODAS<b> (<u>CO</u>-<u>D</u>esign of <u>A</u>ccelerated <u>S</u>ystems) Group
+title: <b>CODAS<b> (<u>CO</u>-<u>D</u>esign of <u>A</u>ccelerated <u>S</u>ystems)
 nav_title: team
 description: My supervision area is on <b>system architectures</b> from designing computer architectures and systems to efficiently leverage them.
 nav: true
