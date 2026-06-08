@@ -236,6 +236,15 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
+      {% if entry.best_paper_award %}
+        {% if entry.best_paper_award contains '://' %}
+          <a href="{{ entry.best_paper_award }}" class="best-paper-award btn btn-sm z-depth-0" role="button">Best Paper Award</a>
+        {% elsif entry.best_paper_award == 'true' %}
+          <a class="best-paper-award btn btn-sm z-depth-0" role="button">Best Paper Award</a>
+        {% else %}
+          <a class="best-paper-award btn btn-sm z-depth-0" role="button">{{ entry.best_paper_award }}</a>
+        {% endif %}
+      {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
           <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
