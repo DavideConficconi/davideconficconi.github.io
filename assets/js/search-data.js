@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-team",
-          title: "team",
+        },{id: "nav-lt-b-gt-codas-lt-b-gt-lt-u-gt-co-lt-u-gt-lt-u-gt-d-lt-u-gt-esign-of-lt-u-gt-a-lt-u-gt-ccelerated-lt-u-gt-s-lt-u-gt-ystems",
+          title: "&lt;b&gt;CODAS&lt;b&gt; (&lt;u&gt;CO&lt;/u&gt;-&lt;u&gt;D&lt;/u&gt;esign of &lt;u&gt;A&lt;/u&gt;ccelerated &lt;u&gt;S&lt;/u&gt;ystems)",
           description: "My supervision area is on system architectures from designing computer architectures and systems to efficiently leverage them.",
           section: "Navigation",
           handler: () => {
@@ -186,6 +186,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-thanks-to-tum-global-incentive-fund-gif-and-eta25-melanie-köhler-ovidiu-șerban-fabio-pizzetti-and-myself-are-organizing-the-whiskey-ai-workshop-it-will-be-in-tum-the-2-3-july-2026-we-are-looking-for-speakers-and-participants-willing-to-join-this-interdisciplinary-research-area-or-bring-their-vertical-perspecitve-register-here-and-find-more-details-on-whiskey-ai-website",
           title: 'Thanks to TUM Global Incentive Fund (GIF) and ETA25 Melanie Köhler, Ovidiu Șerban,...',
+          description: "",
+          section: "News",},{id: "news-a-power-centric-methodology-to-characterize-edge-ai-soc-with-limited-telemetry-capabilities-won-the-best-paper-award-at-raw-26-the-work-was-presented-by-giuseppe-sorrentino-and-led-by-giulio-mantovi-and-davide-paltrinieri",
+          title: '“A Power-Centric Methodology to Characterize Edge AI SoC with Limited Telemetry Capabilities” won...',
+          description: "",
+          section: "News",},{id: "news-i-have-started-my-visiting-at-the-university-of-edinburgh-hosted-by-prof-antonio-barbalace",
+          title: 'I have started my visiting at the University of Edinburgh hosted by Prof....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
