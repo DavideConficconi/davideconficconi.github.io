@@ -23,10 +23,10 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
-I am an Assistant Professor at Dipartimento Elettronica, Informazione e Bioingegneria of Politecnico di Milano (Italy) and an incoming visiting scholar at the University of Edinburgh.
+I am an Assistant Professor at Dipartimento Elettronica, Informazione e Bioingegneria of Politecnico di Milano (Italy) and visiting scholar at the [University of Edinburgh](https://informatics.ed.ac.uk/).
 
 
-My research interests fall in the broad spectrum of the **digital computer system architecture** field where achieving high-performance and energy-efficiency is paramount.
+My research interests fall in the broad spectrum of the **computer system architecture** field where achieving high-performance and energy-efficiency is paramount.
 Specifically major topics are: (co-)design of **domain-specific architectures** and **systems**, architectures or frameworks that span the system stack (from the HDL design to the design automation, from the abstraction layer the compilation framework), reconfigurable architectures, especially **FPGAs**, **heterogeneous systems**. 
 I am also started investigating _neuromorphic systems_ and _aerospace systems_ where specilization and efficiency are mandatory.
 Together with other investigators from Polimi, TUM, and Imperial, we are looking at opportunities in Whisky aging acceleration.
