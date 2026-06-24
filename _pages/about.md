@@ -7,6 +7,7 @@ subtitle: <a href='https://www.polimi.it/'>Politecnico di Milano</a> #<a href='#
 profile:
   align: right
   image: test.jpg
+  image_max_width: clamp(100px, 20vw, 200px) # responsive: min, preferred (viewport-based), max
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><a href='https://www.deib.polimi.it/'>Dipartimento di Elettronica Informazione e Bioingegneria</a></p>
@@ -25,14 +26,15 @@ announcements:
 ---
 I am an Assistant Professor at Dipartimento Elettronica, Informazione e Bioingegneria of Politecnico di Milano (Italy) and visiting scholar at the [University of Edinburgh](https://informatics.ed.ac.uk/).
 
+My research interests fall in the broad spectrum of the **computer system architecture** field.
+Major topics are:  (co-) design of **computer architectures** (including compiler, ISA, microarchitecture), **computer systems**, reconfigurable architectures such as **FPGAs**, **heterogeneous systems**, and design automation.
 
-My research interests fall in the broad spectrum of the **computer system architecture** field where achieving high-performance and energy-efficiency is paramount.
-Specifically major topics are: (co-)design of **domain-specific architectures** and **systems**, architectures or frameworks that span the system stack (from the HDL design to the design automation, from the abstraction layer the compilation framework), reconfigurable architectures, especially **FPGAs**, **heterogeneous systems**. 
-I am also started investigating _neuromorphic systems_ and _aerospace systems_ where specilization and efficiency are mandatory.
-Together with other investigators from Polimi, TUM, and Imperial, we are looking at opportunities in Whisky aging acceleration.
+My research investigates how domain knowledge can be systematically embedded into computing systems, such as _biomedical systems_, _aerospace systems_, and _quantum systems_.
+
+Other explorations:  _neuromorphic systems_, _whiskey aging_ ([WHISKEY-AI workshop](https://whiskey-ai.github.io/)).
 
 An experiment to better visualize my research can be found [here](/dataviz/) (WIP). 
-Further details of my publications can be found in [Google Scholar profile](https://scholar.google.com/citations?user=Y0VnEtkAAAAJ), my [publications page](/publications/), or this [self-made pdf list](https://raw.githubusercontent.com/DavideConficconi/davideconficconi.github.io/master/assets/pdf/publist_dc.pdf) (possibly outdated), or other research profiles in this page.
+[//]: #<!--Further details of my publications can be found in [Google Scholar profile](https://scholar.google.com/citations?user=Y0VnEtkAAAAJ), my [publications page](/publications/), or this [self-made pdf list](https://raw.githubusercontent.com/DavideConficconi/davideconficconi.github.io/master/assets/pdf/publist_dc.pdf) (possibly outdated), or other research profiles in this page.>
 
 If you are a motivated student, and curious or already share some of my research interests, feel free to reach out.
 
