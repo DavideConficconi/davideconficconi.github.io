@@ -31,8 +31,8 @@ nav_order: 3
 
 ##### General Research Projects
 - [Andrea Oggioni](https://github.com/etabeta1) (2025-): accelerating nengo neuromorphic computations on NPUs (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
-- [Rey Paraula](https://github.com/zJudGenie) and [Roberto Petenzi](https://github.com/rob-petenzi) (2025-) high performance computer architectures and their security (co-advised with [Alessandro Bertani](https://github.com/alessandrobertani))
 - [Gianmaria Napolitano](https://github.com/gmnapo) (2026-) HPC RISCV on FPGAs 
+- [Giulio Mantovi](https://github.com/giuliomantovi) and [Davide Paltrinieri](https://github.com/PaltrinieriDavide) machine learning applications on ryzen AI SoC (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 
 <hr>
 
@@ -41,13 +41,13 @@ nav_order: 3
 <br>
 
 ### Graduate Students
+- [Rey Paraula](https://github.com/zJudGenie) and [Roberto Petenzi](https://github.com/rob-petenzi) (2025-) high performance computer architectures and their security (co-advised with [Alessandro Bertani](https://github.com/alessandrobertani))
 - [Giacomo Brunetta](https://github.com/giacomo-brunetta) (2024-2026): vectorized logarithm and spatial accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Marco Laurenzi](https://github.com/marcolaurenzi) (2025-2026): direct memory access for NPU-GPU accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Paolo Salvatore Galfano](https://github.com/Paolo309) (2023-2026): Accelerated MX SoC (work @ Pulp group, ETH, Luca Benini), Heterogeneous System Acceleration through AIE-FPGAs for Image Registration (co-advised with [Eleonora D'Arnese](https://www.research.ed.ac.uk/en/persons/eleonora-darnese))
 - [Alessandro A. Marina](https://github.com/Hackingale) (2024-2026): Spatial Accelerator for Regular Expression matching
 - [Amirreza Kiani](https://github.com/AmirRezaKiani) (2025-2026): AIE-ML image transformation and interpolation (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Federico Valentino](https://github.com/FedericoValentino) (2023-2025): Performance Monitoring of Domain-Specific Archtiectures, Quantum Error Correction on FPGAs
-- [Giulio Mantovi](https://github.com/giuliomantovi) and [Davide Paltrinieri](https://github.com/PaltrinieriDavide) machine learning applications on ryzen AI SoC (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Simone Mannarino](https://github.com/ironmanna) (2023-2025): enabling eBPF offloading in OpenNIC (co-advised with [Gianni Antichi](https://gianniantichi.github.io/))
 - [Claudio Di Salvo](https://github.com/Claxl) (2024-2025): On satellite Image Registration on Embedded FPGAs (co-adivsed with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Paolo Ritirato](https://github.com/Paulpo99) (2024-2025): On satellite telemetry Anomaly Detection with Sipiking Neural Networks on FPGAs (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
