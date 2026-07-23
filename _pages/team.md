@@ -26,8 +26,6 @@ nav_order: 3
 ##### Master Thesis
 - [Roberto A. Bertolini](https://github.com/MrIndeciso) (2024-): Page Walking Security (co-advised with [Lorenzo Binosi](https://github.com/LorenzoBinosi))
 - [Valentino Guerrini](https://github.com/ValentinoGuerrini) (2023-): Fully Homomorphic Encryption Accelerator on Embedded and High-end FPGAs (co-adivsed with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
-- [Giacomo Brunetta](https://github.com/giacomo-brunetta) (2024-): vectorized logarithm and spatial accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
-- [Marco Laurenzi](https://github.com/marcolaurenzi) (2025-): direct memory access for NPU-GPU accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Sera Conti](https://github.com/seraconti) (2026-) Quantum Systems Reliability, joint project with TU Delft and University of Sao Paulo
 - [Pier Guido Seno](https://github.com/pierzeno) (2026-) Statically Scheduled Processors for regex matching (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 
@@ -43,6 +41,8 @@ nav_order: 3
 <br>
 
 ### Graduate Students
+- [Giacomo Brunetta](https://github.com/giacomo-brunetta) (2024-2026): vectorized logarithm and spatial accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
+- [Marco Laurenzi](https://github.com/marcolaurenzi) (2025-2026): direct memory access for NPU-GPU accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Paolo Salvatore Galfano](https://github.com/Paolo309) (2023-2026): Accelerated MX SoC (work @ Pulp group, ETH, Luca Benini), Heterogeneous System Acceleration through AIE-FPGAs for Image Registration (co-advised with [Eleonora D'Arnese](https://www.research.ed.ac.uk/en/persons/eleonora-darnese))
 - [Alessandro A. Marina](https://github.com/Hackingale) (2024-2026): Spatial Accelerator for Regular Expression matching
 - [Amirreza Kiani](https://github.com/AmirRezaKiani) (2025-2026): AIE-ML image transformation and interpolation (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
@@ -61,4 +61,3 @@ nav_order: 3
 
 ### Visiting
 - [Elouan Lucas](https://github.com/Elouanlucas), [ESEO](https://www.linkedin.com/school/eseo/) (summer 2025 internship): efficient AI on Zynqs MPSoCs
-

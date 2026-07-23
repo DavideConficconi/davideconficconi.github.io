@@ -34,6 +34,7 @@ My research investigates how domain knowledge can be systematically embedded int
 Other explorations:  _neuromorphic systems_, _whiskey aging_ ([WHISKEY-AI workshop](https://whiskey-ai.github.io/)).
 
 An experiment to better visualize my research can be found [here](/dataviz/) (WIP). 
+
 [//]: #<!--Further details of my publications can be found in [Google Scholar profile](https://scholar.google.com/citations?user=Y0VnEtkAAAAJ), my [publications page](/publications/), or this [self-made pdf list](https://raw.githubusercontent.com/DavideConficconi/davideconficconi.github.io/master/assets/pdf/publist_dc.pdf) (possibly outdated), or other research profiles in this page.>
 
 If you are a motivated student, and curious or already share some of my research interests, feel free to reach out.
