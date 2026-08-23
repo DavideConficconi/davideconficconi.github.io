@@ -7,7 +7,7 @@ subtitle: <a href='https://www.polimi.it/'>Politecnico di Milano</a> #<a href='#
 profile:
   align: right
   image: test.jpg
-  image_max_width: clamp(100px, 20vw, 200px) # responsive: min, preferred (viewport-based), max
+  image_max_width: clamp(125px, 20vw, 230px) # responsive: min, preferred (viewport-based), max
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><a href='https://www.deib.polimi.it/'>Dipartimento di Elettronica Informazione e Bioingegneria</a></p>
