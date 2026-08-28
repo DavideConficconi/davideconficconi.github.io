@@ -16,7 +16,7 @@ nav_order: 4
 At Politecnico di Milano
 
 Passion in Action intiative at Polimi
-* Course Organizer of 063006 - _FPGA101: From Reconfigurable to Domain-Specific Systems_ [2026 fall](), [2026 spring](https://polimi365-my.sharepoint.com/:f:/g/personal/10429768_polimi_it/IgDln55ylUpiQ6gg8MH5l69YAbuDK_hF9h_LBkcyIUspaN0?e=cxI5Pf), [2025 spring](https://polimi365-my.sharepoint.com/:f:/g/personal/10429768_polimi_it/EoMw4yag8D1HuR_i5SJfeIMBDYDSOgarG-obXESmNkjtvg?e=ArfDzf), [2024 fall](https://polimi365-my.sharepoint.com/:f:/g/personal/10429768_polimi_it/Eri7MrHuijBLstlYNsKbX9YBZtCAei_u7G6rb9jztDUsyQ) (renewed version of the previous FPGA101 editions)
+* Course Organizer of 063006 - _FPGA101: From Reconfigurable to Domain-Specific Systems_ [2026 fall](https://polimi365-my.sharepoint.com/:f:/g/personal/10429768_polimi_it/IgAfEyoVtCobTqaFlsQfTI1yAceG-2n6_C9YM4vTaO1qgnU?e=HW4d5s), [2026 spring](https://polimi365-my.sharepoint.com/:f:/g/personal/10429768_polimi_it/IgDln55ylUpiQ6gg8MH5l69YAbuDK_hF9h_LBkcyIUspaN0?e=cxI5Pf), [2025 spring](https://polimi365-my.sharepoint.com/:f:/g/personal/10429768_polimi_it/EoMw4yag8D1HuR_i5SJfeIMBDYDSOgarG-obXESmNkjtvg?e=ArfDzf), [2024 fall](https://polimi365-my.sharepoint.com/:f:/g/personal/10429768_polimi_it/Eri7MrHuijBLstlYNsKbX9YBZtCAei_u7G6rb9jztDUsyQ) (renewed version of the previous FPGA101 editions)
 
 ## Past Courses
 
