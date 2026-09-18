@@ -29,6 +29,7 @@ nav_order: 3
 - [Valentino Guerrini](https://github.com/ValentinoGuerrini) (2023-): Fully Homomorphic Encryption Accelerator on Embedded and High-end FPGAs (co-adivsed with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Sera Conti](https://github.com/seraconti) (2026-) Quantum Systems Reliability, joint project with TU Delft and University of Sao Paulo
 - [Pier Guido Seno](https://github.com/pierzeno) (2026-) Statically Scheduled Processors for regex matching (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
+- [Juan Martin Sanchez Bardellini](https://github.com/jmsb505) efficient ML models and systems on FPGA-based NPUs (co-advised with [Claudio Di Salvo](https://github.com/Claxl))
 
 ##### General Research Projects
 - [Andrea Oggioni](https://github.com/etabeta1) (2025-): accelerating nengo neuromorphic computations on NPUs (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
@@ -45,6 +46,7 @@ nav_order: 3
 <br>
 
 ### Graduate Students
+- [Juan Martin Sanchez Bardellini](https://github.com/jmsb505) and [Felipe Esteban Puente Cárdenas]() (2024-2026) machine learning medical image registration at edge on FPGAs (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Giacomo Brunetta](https://github.com/giacomo-brunetta) (2024-2026): vectorized logarithm and spatial accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Marco Laurenzi](https://github.com/marcolaurenzi) (2025-2026): direct memory access for NPU-GPU accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Paolo Salvatore Galfano](https://github.com/Paolo309) (2023-2026): Accelerated MX SoC (work @ Pulp group, ETH, Luca Benini), Heterogeneous System Acceleration through AIE-FPGAs for Image Registration (co-advised with [Eleonora D'Arnese](https://www.research.ed.ac.uk/en/persons/eleonora-darnese))
