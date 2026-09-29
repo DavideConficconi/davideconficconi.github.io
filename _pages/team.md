@@ -36,8 +36,8 @@ nav_order: 3
 - [Gianmaria Napolitano](https://github.com/gmnapo) (2026-): HPC RISCV on FPGAs  (co-advised with [Claudio Di Salvo](https://github.com/Claxl))
 - [Giulio Mantovi](https://github.com/giuliomantovi) and [Davide Paltrinieri](https://github.com/PaltrinieriDavide) (2025-): machine learning applications on ryzen AI SoC (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Federica Valentino](https://github.com/FedericoValentino) (2023-2026): Performance Monitoring of Domain-Specific Archtiectures, Quantum Error Correction on FPGAs
-- [Chengen Wu](https://github.com/wannan123) (2026-): Exploiting Versal HBM Systems  (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
-- [Alessandro Palliccia](https://github.com/clainstone) (2026-) Efficient Spiking Models on Digital Systems (co-advised with [Claudio Di Salvo](https://github.com/Claxl))
+- [Chengen Wu](https://github.com/wannan123) (2026-): Exploiting Versal HBM Systems  (co-advised with [Claudio Di Salvo](https://github.com/Claxl))
+- [Alessandro Palliccia](https://github.com/clainstone) (2026-) Efficient Spiking Models on Digital Systems (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 <hr>
 
 ## Past Members
