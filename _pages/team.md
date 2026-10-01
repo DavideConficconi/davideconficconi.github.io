@@ -34,7 +34,6 @@ nav_order: 3
 ##### Research Projects
 - [Andrea Oggioni](https://github.com/etabeta1) (2025-): accelerating nengo neuromorphic computations on NPUs (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Gianmaria Napolitano](https://github.com/gmnapo) (2026-): HPC RISCV on FPGAs  (co-advised with [Claudio Di Salvo](https://github.com/Claxl))
-- [Giulio Mantovi](https://github.com/giuliomantovi) and [Davide Paltrinieri](https://github.com/PaltrinieriDavide) (2025-): machine learning applications on ryzen AI SoC (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Federica Valentino](https://github.com/FedericoValentino) (2023-2026): Performance Monitoring of Domain-Specific Archtiectures, Quantum Error Correction on FPGAs
 - [Chengen Wu](https://github.com/wannan123) (2026-): Exploiting Versal HBM Systems  (co-advised with [Claudio Di Salvo](https://github.com/Claxl))
 - [Alessandro Palliccia](https://github.com/clainstone) (2026-) Efficient Spiking Models on Digital Systems (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
@@ -59,6 +58,7 @@ nav_order: 3
 - [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99) (2022-2023), HEPHAESTUS: an FPGA-based Framework for 3D Image Registration (co-advised with [Eleonora D'Arnese](https://www.research.ed.ac.uk/en/persons/eleonora-darnese))
 
 ##### Research Projects
+- [Giulio Mantovi](https://github.com/giuliomantovi) and [Davide Paltrinieri](https://github.com/PaltrinieriDavide) (2025-2026): machine learning applications on ryzen AI SoC (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Juan Martin Sanchez Bardellini](https://github.com/jmsb505) and [Felipe Esteban Puente Cárdenas](https://github.com/felipepuentec) (2024-2026) machine learning medical image registration at edge on FPGAs (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Rey Paraula](https://github.com/zJudGenie) and [Roberto Petenzi](https://github.com/rob-petenzi) (2025-2026) high performance computer architectures and their security (co-advised with [Alessandro Bertani](https://github.com/alessandrobertani))
 - [Amirreza Kiani](https://github.com/AmirRezaKiani) (2025-2026): AIE-ML image transformation and interpolation (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
