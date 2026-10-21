@@ -16,7 +16,6 @@ nav_order: 3
 <br>
 
 ### PhD Students
-
 - [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99) (2023-), heterogeneous and adaptive accelerators for Federated Biomedical Image Registration (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
 - [Omar Regantini](https://github.com/omarregantini) (2024-), power-efficient guidance in the deep-space  (primary advisor [Alessandro Morselli](https://dart.polimi.it/member/?p=alessandro+morselli))
 - [Claudio Di Salvo](https://github.com/Claxl) (2026-), adaptable accelerators for space and biomedical computing systems (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
@@ -26,9 +25,7 @@ nav_order: 3
 
 ##### Master Thesis
 - [Roberto A. Bertolini](https://github.com/MrIndeciso) (2024-): Page Walking Security (co-advised with [Lorenzo Binosi](https://github.com/LorenzoBinosi))
-- [Valentino Guerrini](https://github.com/ValentinoGuerrini) (2023-): Fully Homomorphic Encryption Accelerator on Embedded and High-end FPGAs (co-adivsed with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
-- [Sera Conti](https://github.com/seraconti) (2026-): Quantum Systems Reliability, joint project with TU Delft and University of Sao Paulo
-- [Pier Guido Seno](https://github.com/pierzeno) (2026-): compilation and execution of regex on heterogeneous systems (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
+- [Sera Conti](https://github.com/seraconti) (2026-): Quantum Systems Reliability, joint project with [Salahuddin Nur](https://scholar.google.com/citations?user=qb4qk4cAAAAJ&hl=en) (TU Delft) and University of Sao Paulo
 - [Juan Martin Sanchez Bardellini](https://github.com/jmsb505) (2026-): efficient ML models and systems on FPGA-based NPUs (co-advised with [Claudio Di Salvo](https://github.com/Claxl))
 
 ##### Research Projects
@@ -46,6 +43,8 @@ nav_order: 3
 ### Graduate Students
 
 ##### Master Thesis
+- [Valentino Guerrini](https://github.com/ValentinoGuerrini) (2023-2026): Fully Homomorphic Encryption Accelerator on Embedded and High-end FPGAs (co-adivsed with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
+- [Pier Guido Seno](https://github.com/pierzeno) (2026): compilation and execution of regex on heterogeneous systems (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Giacomo Brunetta](https://github.com/giacomo-brunetta) (2024-2026): vectorized logarithm and spatial accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Marco Laurenzi](https://github.com/marcolaurenzi) (2025-2026): direct memory access for NPU-GPU accelerators (co-advised with [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99))
 - [Paolo Salvatore Galfano](https://github.com/Paolo309) (2023-2026): Accelerated MX SoC (work @ Pulp group, ETH, Luca Benini), Heterogeneous System Acceleration through AIE-FPGAs for Image Registration (co-advised with [Eleonora D'Arnese](https://www.research.ed.ac.uk/en/persons/eleonora-darnese))
