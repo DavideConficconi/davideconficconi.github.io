@@ -44,7 +44,7 @@ const highlightSearchTerm = ({ search, selector, customHighlightName = "search" 
     throw new Error("The selector argument is required");
   }
 
-  if (!CSS.highlights) return; // disable feature on Firefox as it does not support CSS Custom Highlight API
+  if (!CSS.highlights) return;
 
   // remove previous highlight
   CSS.highlights.delete(customHighlightName);
