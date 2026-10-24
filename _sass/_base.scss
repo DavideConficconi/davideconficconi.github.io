@@ -697,6 +697,45 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
+  .venue-filters {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.4rem;
+    margin: 0.75rem 0 1.5rem;
+
+    .venue-filter {
+      border: 1px solid var(--global-divider-color);
+      border-radius: 999px;
+      background: transparent;
+      color: var(--global-text-color);
+      cursor: pointer;
+      font-size: 0.875rem;
+      padding: 0.25rem 0.55rem;
+
+      &[aria-pressed="true"] {
+        border-color: var(--global-theme-color);
+        background: var(--global-theme-color);
+        color: var(--global-card-bg-color);
+      }
+
+      &:focus-visible {
+        outline: 2px solid var(--global-theme-color);
+        outline-offset: 2px;
+      }
+    }
+
+    .venue-filter-status {
+      flex-basis: 100%;
+      color: var(--global-text-color-light);
+      font-size: 0.875rem;
+    }
+  }
+
+  li.venue-hidden {
+    display: none;
+  }
+
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
