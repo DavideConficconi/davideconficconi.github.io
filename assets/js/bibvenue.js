@@ -15,11 +15,12 @@ document.addEventListener("DOMContentLoaded", function () {
   ]);
   const venueAliases = new Map([["SIGMTERICS", "SIGMETRICS"]]);
   const venueOrder = [
+    "HPCA",
     "SIGMETRICS",
     "DAC",
     "FPGA",
-    "CGO",
     "FCCM",
+    "CGO",
     "EuroSys",
     "TRETS",
     "CSUR",
