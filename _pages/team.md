@@ -17,9 +17,9 @@ nav_order: 3
 
 ### PhD Students
 - [Giuseppe Sorrentino](https://github.com/GiuseppeSorrentino99) (2023-), heterogeneous and adaptive accelerators for Federated Biomedical Image Registration (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
-- [Omar Regantini](https://github.com/omarregantini) (2024-), power-efficient guidance in the deep-space  (primary advisor [Alessandro Morselli](https://dart.polimi.it/member/?p=alessandro+morselli))
+- [Omar Regantini](https://github.com/omarregantini) (2024-), power-efficient guidance in the deep-space (primary advisor [Alessandro Morselli](https://dart.polimi.it/member/?p=alessandro+morselli))
 - [Claudio Di Salvo](https://github.com/Claxl) (2026-), adaptable accelerators for space and biomedical computing systems (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
-- [Marco Laurenzi](https://github.com/marcolaurenzi)  (2026-), CXL accelerators at scale (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
+- [Marco Laurenzi](https://github.com/marcolaurenzi)  (2026-), composable systems at scale (co-advised with [Marco Domenico Santambrogio](https://santambrogio.faculty.polimi.it/))
 
 ### Graduate Students
 
