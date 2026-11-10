@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Invited to serve as [FCCM 2027](https://www.isfpga.org/) Program Committee member.
+Invited to serve [FCCM 2027](https://www.isfpga.org/) as Program Committee member.
 Looking forward for the submissions!

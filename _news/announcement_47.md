@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Invited to serve as [DAC 2027](https://dac.com/2027) Program Committee member.
+Invited to serve [DAC 2027](https://dac.com/2027) as Program Committee member.
 Looking forward for the submissions!

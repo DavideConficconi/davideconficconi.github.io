@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Invited to serve as [ISCA 2027](https://iscaconf.org/isca2027/) Program Committee member.
+Invited to serve [ISCA 2027](https://iscaconf.org/isca2027/) as Program Committee member.
 Looking forward for the submissions!
