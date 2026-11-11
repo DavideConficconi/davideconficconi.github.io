@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Invited to serve [DAC 2027](https://dac.com/2027) as Program Committee member.
+Invited to serve [DAC 2027](https://dac.com/2027) as Track Co-chair and Program Committee member.
 Looking forward for the submissions!
